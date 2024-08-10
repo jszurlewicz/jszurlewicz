@@ -5,7 +5,11 @@ I'm excited to share a bit about myself and my journey in the world of data.
 ---
 
 ## 👨‍💼 About Me
-My name is Juan Ignacio Szurlewicz and I´m from Argentina. I'm a **young economist, data analyst, and data scientist** with over **2 years of experience** in the data field. During this time, I've worked as a consultant for a leading consulting firm in Argentina, where I contributed to various **S&OP (Sales and Operations Planning)** and **IBP (Integrated Business Planning)** projects. My work involved delivering valuable solutions to clients in the **retail industry**, primarily in Brazil, using Pyplan, wich is the own library and IDE of the company, based on Python, where we develop the models.
+Hello! My name is **Juan Ignacio Szurlewicz** and I’m from Argentina. I'm a **young economist, data analyst, and data scientist** with over **2 years of experience** in the data field.
+
+During this time, I've worked as a consultant for a leading consulting firm in Argentina, where I contributed to various **S&OP (Sales and Operations Planning)** and **IBP (Integrated Business Planning)** projects. My work involved delivering valuable solutions to clients in the **retail industry**, primarily in Brazil.
+
+I primarily used **Pyplan**, the proprietary library and IDE developed by the company, which is based on Python. This platform enabled us to develop and deploy complex models tailored to our clients' needs.
 
 ---
 
