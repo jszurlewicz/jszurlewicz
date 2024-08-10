@@ -42,9 +42,9 @@ I am passionate about using data to drive business decisions and am continually 
 ---
 
 ## 🎓 Certifications & Education
-- **Diploma in Machine Learning, Supervised Learning and Unsupervised Learning.**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [https://diplodatos.famaf.unc.edu.ar/]
-- **Data Analyst**: [![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white)]( https://www.coderhouse.com/ar/certificados/627074a947f1b20019002780)
-- **SQL for Data Science**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [https://www.udemy.com/certificate/UC-084a24de-a56d-40aa-ae3d-7af9fd24697d/]
+- **Diploma in Machine Learning, Supervised Learning and Unsupervised Learning.**: [![Certification](https://img.shields.io/badge/-View%20Certification-4CAF50?style=flat&logo=Google%20Classroom&logoColor=white)](https://diplodatos.famaf.unc.edu.ar/)
+- **Data Analyst**: [![Certification](https://img.shields.io/badge/-View%20Certification-4CAF50?style=flat&logo=Google%20Classroom&logoColor=white)]( https://www.coderhouse.com/ar/certificados/627074a947f1b20019002780)
+- **SQL for Data Science**: [![Certification](https://img.shields.io/badge/-View%20Certification-4CAF50?style=flat&logo=Google%20Classroom&logoColor=white)](https://www.udemy.com/certificate/UC-084a24de-a56d-40aa-ae3d-7af9fd24697d/)
 - **Bachelor’s Degree in Economics**: University of Córdoba - Argentina
 
 ---
