@@ -22,9 +22,9 @@ I primarily used **Pyplan**, the proprietary library and IDE developed by the co
 ---
 
 ## 🌍 Languages
+- **Spanish**: ![Spanish](https://img.shields.io/badge/-Native-E44D26?style=flat&logo=Spain&logoColor=white)
 - **English**: ![English](https://img.shields.io/badge/-Fluent-007ACC?style=flat&logo=Microsoft&logoColor=white)
 - **Portuguese**: ![Portuguese](https://img.shields.io/badge/-Fluent-007ACC?style=flat&logo=Microsoft&logoColor=white)
-- **Spanish**: ![Spanish](https://img.shields.io/badge/-Native-E44D26?style=flat&logo=Spain&logoColor=white)
 - **German**: ![German](https://img.shields.io/badge/-Basic-FFD700?style=flat&logo=Germany&logoColor=black)
 
 ---
