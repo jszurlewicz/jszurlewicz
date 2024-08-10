@@ -5,15 +5,15 @@ I'm excited to share a bit about myself and my journey in the world of data.
 ---
 
 ## 👨‍💼 About Me
-I'm a **young economist, data analyst, and data scientist** with over **2 years of experience** in the data field. During this time, I've worked as a consultant for a leading consulting firm in Argentina, where I contributed to various **S&OP (Sales and Operations Planning)** and **IBP (Integrated Business Planning)** projects. My work involved delivering valuable solutions to clients in the **retail industry**, primarily in Brazil.
+My name is Juan Ignacio Szurlewicz and I´m from Argentina. I'm a **young economist, data analyst, and data scientist** with over **2 years of experience** in the data field. During this time, I've worked as a consultant for a leading consulting firm in Argentina, where I contributed to various **S&OP (Sales and Operations Planning)** and **IBP (Integrated Business Planning)** projects. My work involved delivering valuable solutions to clients in the **retail industry**, primarily in Brazil, using Pyplan, wich is the own library and IDE of the company, based on Python, where we develop the models.
 
 ---
 
 ## 💻 Technical Skills
 - **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
-- **Libraries & Frameworks**: pandas, numpy, xarray, scikit-learn, SciPy, PySpark
+- **Libraries & Frameworks**: Pandas, Numpy, Xarray, Scikit-learn, SciPy, PySpark, Polars, Tensorflow, Seaborn, Plotly and so others. 
 - **Data Tools**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white), ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
-- **Other Tools**: Microsoft Excel, PowerPoint
+- **Other Tools**: Microsoft Excel, PowerPoint, Microsoft Word 
 
 ---
 
@@ -37,15 +37,16 @@ I am passionate about using data to drive business decisions and am continually 
 ---
 
 ## 🎓 Certifications & Education
-- **Certified Data Scientist**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [Link to Certification]
-- **SQL Specialist**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [Link to Certification]
-- **Bachelor’s Degree in Economics**: University of XYZ
+- **Diploma in Machine Learning, Supervised Learning and Unsupervised Learning.**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [https://diplodatos.famaf.unc.edu.ar/]
+- **Data Analyst**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [https://www.coderhouse.com/ar/certificados/627074a947f1b20019002780]
+- **SQL for Data Science**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [https://www.udemy.com/certificate/UC-084a24de-a56d-40aa-ae3d-7af9fd24697d/]
+- **Bachelor’s Degree in Economics**: University of Córdoba - Argentina
 
 ---
 
 ## 🔗 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-00A98F?style=flat&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jiszurlewicz/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-00A98F?style=flat&logo=Google-Chrome&logoColor=white)](https://jszurlewicz.github.io)
 
 ---
 
