@@ -30,14 +30,20 @@ I primarily used **Pyplan**, the proprietary library and IDE developed by the co
 ---
 
 ## 🎯 Professional Goals
-I am passionate about using data to drive business decisions and am continually expanding my knowledge in **advanced analytics** and **machine learning**. My current focus is on mastering **deep learning techniques** and contributing to **open-source projects**.
+I am deeply passionate about using data to drive impactful business decisions. Currently, I am focused on expanding my expertise in **supervised and unsupervised machine learning**. My goal is to deepen my practice in developing and applying **financial algorithms** that can deliver efficient and innovative solutions for organizations in need. By leveraging these advanced techniques, I aim to contribute meaningfully to the field of data science and help businesses optimize their decision-making processes.
 
 ---
 
 ## 🚀 Key Projects
-- **📊Master Production Schedule**: Developed a predictive model for demand forecasting that improved accuracy by 20% for a major retail client in Brazil.
-- **📊Material Requirements Planning**: Created a tool using Python and SQL to optimize inventory levels, resulting in a 15% reduction in excess stock.
-- **📊Vendor Managment Inventory**: Created a tool using Python and SQL to optimize inventory levels, resulting in a 15% reduction in excess stock.
+
+- **📊 Demand Planning Forecast**: Developed a predictive model for demand forecasting that improved the accuracy of the demand plan by 20% for a major retail client in Brazil.
+
+- **📊 Master Production Schedule**: Developed an integrated production planning model linked to the demand forecast module. This model enabled the creation of a more accurate production schedule, identifying production gaps, the need for resource increases, or costs associated with obsolete products.
+
+- **📊 Material Requirements Planning**: Developed a material procurement model integrated with the production planning module for constructing a restricted plan. This model reduced material expirations and improved purchase forecasting by anticipating inputs or postponing orders according to changes in production needs.
+
+- **📊 Vendor Management Inventory**: Improved stock out and days on hand metrics for franchise stores through a Vendor Management Inventory model. The model optimized purchasing according to desired stock days, parametrized based on lead times and transit times, and included analysis of excess inventory and obsolescence.
+
 
 ---
 
