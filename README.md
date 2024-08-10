@@ -19,7 +19,7 @@ My name is Juan Ignacio Szurlewicz and I´m from Argentina. I'm a **young econom
 
 ## 🌍 Languages
 - **English**: ![English](https://img.shields.io/badge/-Fluent-007ACC?style=flat&logo=Microsoft&logoColor=white)
-- **Portuguese**: ![Portuguese](https://img.shields.io/badge/-Fluent-3F51B5?style=flat&logo=Material%20Design%20Icons&logoColor=white)
+- **Portuguese**: ![Portuguese](https://img.shields.io/badge/-Fluent-007ACC?style=flat&logo=Microsoft&logoColor=white)
 - **Spanish**: ![Spanish](https://img.shields.io/badge/-Native-E44D26?style=flat&logo=Spain&logoColor=white)
 - **German**: ![German](https://img.shields.io/badge/-Basic-FFD700?style=flat&logo=Germany&logoColor=black)
 
@@ -31,8 +31,9 @@ I am passionate about using data to drive business decisions and am continually 
 ---
 
 ## 🚀 Key Projects
-- **📈 Demand Forecasting Model**: Developed a predictive model for demand forecasting that improved accuracy by 20% for a major retail client in Brazil.
-- **📊 Inventory Optimization Tool**: Created a tool using Python and SQL to optimize inventory levels, resulting in a 15% reduction in excess stock.
+- **📊Master Production Schedule**: Developed a predictive model for demand forecasting that improved accuracy by 20% for a major retail client in Brazil.
+- **📊Material Requirements Planning**: Created a tool using Python and SQL to optimize inventory levels, resulting in a 15% reduction in excess stock.
+- **📊Vendor Managment Inventory**: Created a tool using Python and SQL to optimize inventory levels, resulting in a 15% reduction in excess stock.
 
 ---
 
