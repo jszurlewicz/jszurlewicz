@@ -1,10 +1,51 @@
-Welcome to My Personal Repository!
+# 🌟 Welcome to My Personal Repository!
+
 I'm excited to share a bit about myself and my journey in the world of data.
 
-I'm a young economist, data analyst, and data scientist with over two years of experience in the data field. During this time, I have worked as a consultant for a leading consulting firm in Argentina, where I had the opportunity to contribute to various S&OP (Sales and Operations Planning) and IBP (Integrated Business Planning) projects. My role involved providing valuable solutions to a diverse range of clients in the retail industry, primarily based in Brazil.
+---
 
-Throughout these projects, I honed my skills in Python, utilizing it as my primary programming language. I applied Object-Oriented Programming (OOP) principles and leveraged a wide array of public libraries, including pandas, numpy, xarray, scikit-learn, SciPy, PySpark, and many others.
+## 👨‍💼 About Me
+I'm a **young economist, data analyst, and data scientist** with over **2 years of experience** in the data field. During this time, I've worked as a consultant for a leading consulting firm in Argentina, where I contributed to various **S&OP (Sales and Operations Planning)** and **IBP (Integrated Business Planning)** projects. My work involved delivering valuable solutions to clients in the **retail industry**, primarily in Brazil.
 
-In addition to my expertise in Python, I am proficient in SQL, Power BI, and various Microsoft tools, which I have used extensively in my work.
+---
 
-I am fluent in English, Portuguese, and Spanish, and I have a basic understanding of German.
+## 💻 Technical Skills
+- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) 
+- **Libraries & Frameworks**: pandas, numpy, xarray, scikit-learn, SciPy, PySpark
+- **Data Tools**: ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white), ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)
+- **Other Tools**: Microsoft Excel, PowerPoint
+
+---
+
+## 🌍 Languages
+- **English**: ![English](https://img.shields.io/badge/-Fluent-007ACC?style=flat&logo=Microsoft&logoColor=white)
+- **Portuguese**: ![Portuguese](https://img.shields.io/badge/-Fluent-3F51B5?style=flat&logo=Material%20Design%20Icons&logoColor=white)
+- **Spanish**: ![Spanish](https://img.shields.io/badge/-Native-E44D26?style=flat&logo=Spain&logoColor=white)
+- **German**: ![German](https://img.shields.io/badge/-Basic-FFD700?style=flat&logo=Germany&logoColor=black)
+
+---
+
+## 🎯 Professional Goals
+I am passionate about using data to drive business decisions and am continually expanding my knowledge in **advanced analytics** and **machine learning**. My current focus is on mastering **deep learning techniques** and contributing to **open-source projects**.
+
+---
+
+## 🚀 Key Projects
+- **📈 Demand Forecasting Model**: Developed a predictive model for demand forecasting that improved accuracy by 20% for a major retail client in Brazil.
+- **📊 Inventory Optimization Tool**: Created a tool using Python and SQL to optimize inventory levels, resulting in a 15% reduction in excess stock.
+
+---
+
+## 🎓 Certifications & Education
+- **Certified Data Scientist**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [Link to Certification]
+- **SQL Specialist**: ![Certification](https://img.shields.io/badge/-View_Certification-00BFFF?style=flat&logo=LinkedIn&logoColor=white) [Link to Certification]
+- **Bachelor’s Degree in Economics**: University of XYZ
+
+---
+
+## 🔗 Connect with Me
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-00A98F?style=flat&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
+
+---
+
